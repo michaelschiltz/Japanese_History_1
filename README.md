@@ -11,3 +11,21 @@ The important hallmark of this course is its explicitly anti-humanist or sociolo
 #### Introductory reading:
 
 Gordon, Andrew. 2013. *A Modern History of Japan: From Tokugawa Times to the Present*. 3 edition. New York: Oxford University Press.
+
+#### Topics to be covered:
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
