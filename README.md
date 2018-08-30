@@ -35,9 +35,9 @@ Gordon, Andrew. 2013. *A Modern History of Japan: From Tokugawa Times to the Pre
 #### Homework
 From session 2 on, small student groups will be assigned to introduce topics to be discussed. This may include both historical matter and/or their contemporary implications.
 Students are expected to:
-1. to participate in the course as a whole: doing the essential reading for each week’s topic, and coming prepared to question and intervene.
-2. To provide written and oral comments.
-3. To Research, write, present, and defend your argument and choice of topic to be discussed.
+1. participate in the course as a whole: doing the essential reading for each week’s topic, and coming prepared to question and intervene.
+2. provide written and oral comments;
+3. research, write, present, and defend your argument and choice of topic to be discussed.
 4. When presenting, students should go beyond the narrow content of the reading to be presented; develop an argument as a coherent whole, e.g. by focusing on theoretical issues (e.g. the relationship between (political) power and violence, methodological ones (for instance the nature of the relationship between ‘ideas’ and the material/technological/… contexts in which they are shaped)
 
 #### Grading System
