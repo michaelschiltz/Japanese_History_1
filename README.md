@@ -16,21 +16,21 @@ Gordon, Andrew. 2013. *A Modern History of Japan: From Tokugawa Times to the Pre
 
 #### Topics to be covered:
 
-1. Wake-up call: the Opium wars
-2. Gunboat diplomacy and the ‘imperialism of free trade’
-3. The threat of irrelevance and annihilation: the bakumatsu currency crisis
-4. Rebellion and its aftermath: inflation and induced deflation
-5. The Sino-Japanese War
-6. The Boxer rebellion: victory of Western technologies
-7. The Anglo-Japanese alliance: Japan as a linchpin in the Great-Britain led world order
-8. The Russo-Japanese War as World War Zero
-9. Japan in World War I
-10. The Siberian Intervention
-11. Japan returns to Asia
-12. The Manchurian incident
-13. Militarism and Japanese Lebensraum in Manchuria
-14. ‘Use the war to feed the war’: the road to World War II
-15. The total defeat of blocism and the Pax Americana
+1. [Wake-up call: the Opium wars](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2001%20-%20Wake-up%20call:%20the%20Opium%20wars)
+2. [Gunboat diplomacy and the ‘imperialism of free trade’]()
+3. [The threat of irrelevance and annihilation: the bakumatsu currency crisis]()
+4. [Rebellion and its aftermath: inflation and induced deflation]()
+5. [The Sino-Japanese War]()
+6. [The Boxer rebellion: victory of Western technologies]()
+7. [The Anglo-Japanese alliance: Japan as a linchpin in the Great-Britain led world order]()
+8. [The Russo-Japanese War as World War Zero]()
+9. [Japan in World War I]()
+10. [The Siberian Intervention]()
+11. [Japan returns to Asia]()
+12. [The Manchurian incident]()
+13. [Militarism and Japanese Lebensraum in Manchuria]()
+14. [‘Use the war to feed the war’: the road to World War II]()
+15. [The total defeat of blocism and the Pax Americana]()
 
 #### Homework
 From session 2 on, small student groups will be assigned to introduce topics to be discussed. This may include both historical matter and/or their contemporary implications.
