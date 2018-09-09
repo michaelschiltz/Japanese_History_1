@@ -18,7 +18,7 @@ Gordon, Andrew. 2013. *A Modern History of Japan: From Tokugawa Times to the Pre
 
 1. [Wake-up call: the Opium wars](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2001%20-%20Wake-up%20call:%20the%20Opium%20wars)
 2. [Gunboat diplomacy and the ‘imperialism of free trade’](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2002%20-%20Gunboat%20diplomacy)
-3. [The threat of irrelevance and annihilation: the bakumatsu currency crisis](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2003%20-%20the%20bakumatsu%20currency%20crisis)
+3. [The threat of irrelevance and annihilation: the bakumatsu currency crisis](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2003%20-%20the%20bakumatsu%20currency%20crisis.md)
 4. [Rebellion and its aftermath: inflation and induced deflation](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2004%20-%20Rebellion%20and%20its%20aftermath)
 5. [The Sino-Japanese War](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2005%20-%20Sino-Japanese%20War)
 6. [The Boxer rebellion: victory of Western technologies](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2006%20-%20Boxer%20rebellion)
