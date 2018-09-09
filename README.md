@@ -16,21 +16,21 @@ Gordon, Andrew. 2013. *A Modern History of Japan: From Tokugawa Times to the Pre
 
 #### Topics to be covered:
 
-1. [Wake-up call: the Opium wars](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2001%20-%20Wake-up%20call:%20the%20Opium%20wars)
-2. [Gunboat diplomacy and the ‘imperialism of free trade’](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2002%20-%20Gunboat%20diplomacy)
+1. [Wake-up call: the Opium wars](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2001%20-%20Wake-up%20call:%20the%20Opium%20wars.md)
+2. [Gunboat diplomacy and the ‘imperialism of free trade’](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2002%20-%20Gunboat%20diplomacy.md)
 3. [The threat of irrelevance and annihilation: the bakumatsu currency crisis](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2003%20-%20the%20bakumatsu%20currency%20crisis.md)
-4. [Rebellion and its aftermath: inflation and induced deflation](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2004%20-%20Rebellion%20and%20its%20aftermath)
-5. [The Sino-Japanese War](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2005%20-%20Sino-Japanese%20War)
-6. [The Boxer rebellion: victory of Western technologies](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2006%20-%20Boxer%20rebellion)
-7. [The Anglo-Japanese alliance: Japan as a linchpin in the Great-Britain led world order](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2007%20-%20Anglo-Japanese%20alliance)
-8. [The Russo-Japanese War as World War Zero](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2008%20-%20Russo-Japanese%20War)
-9. [Japan in World War I](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2009%20-%20Japan%20in%20World%20War%20I)
-10. [The Siberian Intervention](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2010%20-%20Siberian%20Intervention)
-11. [Japan returns to Asia](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2011%20-%20Japan%20returns%20to%20Asia)
-12. [The Manchurian incident](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2012%20-%20Manchurian%20incident)
-13. [Militarism and Japanese Lebensraum in Manchuria](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2013%20-%20Militarism%20and%20Japanese%20Lebensraum%20in%20Manchuria)
-14. [‘Use the war to feed the war’: the road to World War II](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2014%20-%20road%20to%20World%20War%20II)
-15. [The total defeat of blocism and the Pax Americana](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2015%20-%20total%20defeat%20of%20blocism)
+4. [Rebellion and its aftermath: inflation and induced deflation](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2004%20-%20Rebellion%20and%20its%20aftermath.md)
+5. [The Sino-Japanese War](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2005%20-%20Sino-Japanese%20War.md)
+6. [The Boxer rebellion: victory of Western technologies](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2006%20-%20Boxer%20rebellion.md)
+7. [The Anglo-Japanese alliance: Japan as a linchpin in the Great-Britain led world order](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2007%20-%20Anglo-Japanese%20alliance.md)
+8. [The Russo-Japanese War as World War Zero](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2008%20-%20Russo-Japanese%20War.md)
+9. [Japan in World War I](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2009%20-%20Japan%20in%20World%20War%20I.md)
+10. [The Siberian Intervention](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2010%20-%20Siberian%20Intervention.md)
+11. [Japan returns to Asia](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2011%20-%20Japan%20returns%20to%20Asia.md)
+12. [The Manchurian incident](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2012%20-%20Manchurian%20incident.md)
+13. [Militarism and Japanese Lebensraum in Manchuria](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2013%20-%20Militarism%20and%20Japanese%20Lebensraum%20in%20Manchuria.md)
+14. [‘Use the war to feed the war’: the road to World War II](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2014%20-%20road%20to%20World%20War%20II.md)
+15. [The total defeat of blocism and the Pax Americana](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2015%20-%20total%20defeat%20of%20blocism.md)
 
 #### Homework
 From session 2 on, small student groups will be assigned to introduce topics to be discussed. This may include both historical matter and/or their contemporary implications.
