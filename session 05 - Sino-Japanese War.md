@@ -1,3 +1,5 @@
+![naval officers discussing strategy](images/55276.jpg)
+
 ### Keywords
 
 
