@@ -13,6 +13,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
+* Parker, Edward Harper, and Yuan Wei. 1888. *Chinese Account of the Opium War*. Shanghai : Kelly & Walsh, ltd. http://archive.org/details/chineseaccountof00parkrich.
 
 ### Audiovisual materials
 
