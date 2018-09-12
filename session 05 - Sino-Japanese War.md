@@ -1,4 +1,6 @@
 ![naval officers discussing strategy](images/55276.jpg)
+Source: Sino-Japanese War: Picture of Naval Officers Discussing Strategy to Be Used in the War against China. 1894. Triptych of polychrome woodblock prints; ink and color on paper. http://archive.org/details/mma_sinojapanese_war_picture_of_naval_officers_discussing_strategy_to_be_used__55276.
+
 
 ### Keywords
 
