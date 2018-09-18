@@ -22,3 +22,8 @@ Note: compulsory readings have been marked in **bold**
 
 ### to follow (@twitter)
 
+![Oral statement by the American Navy Admiral](images/Gasshukoku_suishi_teitoku_kōjōgaki_(Oral_statement_by_the_American_Navy_admiral).png)
+Source: https://lccn.loc.gov/2002700122
+Gasshukoku suishi teitoku kōjōgaki [graphic]. [between 1850 and 1900]
+1 print on hōsho paper : woodcut, color ; 31.5 x 43 cm. (block), 34.7 x 46.8 cm. (sheet)
+FP 2 - Chadbourne, no. 8
