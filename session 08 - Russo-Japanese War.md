@@ -1,3 +1,5 @@
+![the "Tsarevich" in Port Arthur](images/tsarevich-in-port-arthur-1904.jpg)
+
 ### Keywords
 
 
