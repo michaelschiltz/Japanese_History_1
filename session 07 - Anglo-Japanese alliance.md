@@ -1,3 +1,7 @@
+![Anglo-Japanese Alliance](images/Punch_Anglo-Japanese_Alliance.jpg)
+A scan of a cartoon from The New Punch Library volume 1, page 44, published in London in 1932. First published on 4 October 1905.
+Source: Wikipedia.
+
 ### Keywords
 
 
