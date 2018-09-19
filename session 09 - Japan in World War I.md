@@ -1,5 +1,5 @@
 ### Keywords
-21 Demands, Siege of Qingdao
+21 Demands, Siege of Qingdao, Nishihara loans, China policy
 
 ### Points of discussion
 
