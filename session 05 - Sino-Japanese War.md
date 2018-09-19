@@ -19,6 +19,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Audiovisual materials
 
+* 1990PatMorrison. n.d. Naval Battle From the First Sino-Japanese War. Accessed September 19, 2018. https://www.youtube.com/watch?v=og5svzyrvag.
 
 ### Links to other projects, websites, others
 
