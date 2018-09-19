@@ -21,7 +21,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Links to other projects, websites, others
 
-* Perdue, Peter; Sebring, Ellen. [The Boxer Rebellion](https://ocw.mit.edu/ans7870/21f/21f.027/boxer_uprising/pdf/bx_essay03.pdf)
+* Perdue, Peter; Sebring, Ellen. [The Boxer Rebellion](https://ocw.mit.edu/ans7870/21f/21f.027/boxer_uprising/pdf/bx_essay01.pdf)
 
 ### to follow (@twitter)
 
