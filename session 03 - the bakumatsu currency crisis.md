@@ -23,4 +23,4 @@
 
 ### to follow (@twitter)
 
-![]()
+![the bakumatsu monetary system](images/江戸時代の三貨制度 Wikipedia.png)
