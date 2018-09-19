@@ -16,9 +16,12 @@ Note: compulsory readings have been marked in **bold**
 ### Audiovisual materials
 
 * Peter Perdue and Ellen Sebring, [Boxer Rebellion Overview](https://techtv.mit.edu/videos/6805d177e4394255a42ab2508f132861/)
+* Tilman, Remme. 2014. Boxer Rebellion. https://vimeo.com/94828509.
+
 
 ### Links to other projects, websites, others
 
+* Perdue, Peter; Sebring, Ellen. [The Boxer Rebellion](https://ocw.mit.edu/ans7870/21f/21f.027/boxer_uprising/pdf/bx_essay03.pdf)
 
 ### to follow (@twitter)
 
