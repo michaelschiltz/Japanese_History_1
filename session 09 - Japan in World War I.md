@@ -20,3 +20,4 @@ Note: compulsory readings have been marked in **bold**
 
 ### to follow (@twitter)
 
+![Japanese Seaplane Carrier Wakamiya](images/Wakamiya.jpg)
