@@ -15,6 +15,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Audiovisual materials
 
+* Peter Perdue and Ellen Sebring, [Boxer Rebellion Overview](https://techtv.mit.edu/videos/6805d177e4394255a42ab2508f132861/)
 
 ### Links to other projects, websites, others
 
