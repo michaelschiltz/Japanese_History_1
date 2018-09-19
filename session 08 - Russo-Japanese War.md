@@ -23,3 +23,4 @@ Note: compulsory readings have been marked in **bold**
 
 ### to follow (@twitter)
 
+![European Cartoon about the Russo-Japanese War](images/49-ComicLg.jpg)
