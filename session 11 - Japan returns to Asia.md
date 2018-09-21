@@ -18,6 +18,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Links to other projects, websites, others
 
+* “Pan-Asianism as an Ideal of Asian Identity and Solidarity, 1850–Present−−１８５０ | The Asia-Pacific Journal: Japan Focus.” n.d. Accessed September 21, 2018. https://apjjf.org/2011/9/17/Christopher-W.-A.-Szpilman/3519/article.html.
 
 ### to follow (@twitter)
 
