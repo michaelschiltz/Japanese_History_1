@@ -1,3 +1,5 @@
+![黒竜会 - Black Dragon Society](images/20170921_fa43cc.jpg)
+
 ### Keywords
 
 
