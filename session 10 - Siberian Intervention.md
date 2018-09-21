@@ -1,3 +1,8 @@
+![Washington Naval Treaty](images/Washington_Naval_Treaty.jpg)
+
+Source: author unknown. 2015. Հայերեն: Վաշինգտոնի Համաձայնագիր. blogs.baruch.cuny.edu/his1005spring2011/tag/five-power-naval-limitation-treaty/. https://commons.wikimedia.org/wiki/File:Washington_Naval_Treaty.jpg.
+
+
 ### Keywords
 
 
