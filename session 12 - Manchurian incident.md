@@ -14,9 +14,12 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
+* [full text of the report](https://www.wdl.org/en/item/11601/view/1/1/) (Source: Library of Congress ['World Digital Library'](https://www.wdl.org/en/)
+* Tchou, M. Thomas. 1932. *The Report of the Lytton Commission*. New York : China Institute in America. http://archive.org/details/lyttoncommission00tcho.
 
 ### Audiovisual materials
 
+* “ Japan Walks Out Of Geneva Assembly - YouTube.” n.d. Accessed September 24, 2018. https://www.youtube.com/watch?v=hStmrz3N46U.
 
 ### Links to other projects, websites, others
 
