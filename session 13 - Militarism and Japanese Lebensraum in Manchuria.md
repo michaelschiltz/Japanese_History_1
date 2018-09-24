@@ -1,5 +1,10 @@
+![poppy harvest in Manchuria](images/Manchukuo-poppy_harvest.jpg)
+
+Source: source: 伪满洲国旧影, edited by the museum of Manchukuo Palace, published in 2001 (photogtaph in the public domain)
+
 ### Keywords
 
+drug trafficking, 
 
 ### Points of discussion
 
@@ -16,8 +21,11 @@ Note: compulsory readings have been marked in **bold**
 
 ### Audiovisual materials
 
+* “MANCHUKUO THE NEWBORN EMPIRE - Manchukuo Japanese China Propaganda Film 2304 - YouTube.” n.d. Accessed September 24, 2018. https://www.youtube.com/watch?v=lzYLJt0kdjw.
 
 ### Links to other projects, websites, others
+
+* Yoshida, Reiji. 2007. “Japan Profited as Opium Dealer in Wartime China.” *The Japan Times Online*, August 30, 2007. https://www.japantimes.co.jp/news/2007/08/30/national/japan-profited-as-opium-dealer-in-wartime-china/.
 
 
 ### to follow (@twitter)
