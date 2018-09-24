@@ -1,3 +1,5 @@
+![Japanese experts inspecting the damage from the 'railway sabotage'](images/p18-kingston-mukden-a-20160918.jpg)
+
 ### Keywords
 
 
