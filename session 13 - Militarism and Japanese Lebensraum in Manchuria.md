@@ -22,4 +22,6 @@ Note: compulsory readings have been marked in **bold**
 
 ### to follow (@twitter)
 
-![]()
+![Mongolia and Manchukuo : Where bloodshed marks the border between Soviet outer Maongolia and Japan's puppet Kingdom Manchukuo. A John Hix strange as it seems map presented by the Gilmore Oil Company.](images/8354000.jpg)
+
+Source: David Rumsey Historical Map Collection
