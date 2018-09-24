@@ -1,6 +1,6 @@
 ![poppy harvest in Manchuria](images/Manchukuo-poppy_harvest.jpg)
 
-Source: source: 伪满洲国旧影, edited by the museum of Manchukuo Palace, published in 2001 (photogtaph in the public domain)
+Source: source: 伪满洲国旧影, edited by the museum of Manchukuo Palace, published in 2001 (photograph in the public domain)
 
 ### Keywords
 
