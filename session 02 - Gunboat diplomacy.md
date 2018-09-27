@@ -13,6 +13,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
+* [Japanese-American Diplomacy - Treaty of Kanagawa; March, 31, 1854](http://avalon.law.yale.edu/19th_century/japan002.asp) (full text)
 * Perry, Matthew Calbraith. 1857. [*Narrative of the Expedition of an American Squadron to the China Seas and Japan*](http://ebook.lib.hku.hk/CTWE/B36599566/). New York, London: D. Appleton & company. (e-book provided by Hong Kong University)
 
 ### Audiovisual materials
@@ -22,6 +23,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Links to other projects, websites, others
 
+* [Perry, Black Ships, and Japan Opens up](http://factsanddetails.com/japan/cat16/sub108/item516.html#chapter-15)
 
 ### to follow (@twitter)
 
