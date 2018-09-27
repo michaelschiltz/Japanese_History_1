@@ -13,6 +13,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
+* Perry, Matthew Calbraith. 1857. [*Narrative of the Expedition of an American Squadron to the China Seas and Japan*](http://ebook.lib.hku.hk/CTWE/B36599566/). New York, London: D. Appleton & company. (e-book provided by Hong Kong University)
 
 ### Audiovisual materials
 
