@@ -23,7 +23,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Links to other projects, websites, others
 
-* [The Opium War in Japanese Eyes](https://ocw.mit.edu/ans7870/21f/21f.027/opium_wars_japan/index.html)
+* [The Opium War in Japanese Eyes](https://ocw.mit.edu/ans7870/21f/21f.027/opium_wars_japan/index.html) (essay by John Dower)
 
 ### to follow (@twitter)
 @Visualizing_Cul
