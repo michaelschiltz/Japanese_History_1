@@ -17,6 +17,8 @@ Note: compulsory readings have been marked in **bold**
 
 ### Audiovisual materials
 
+* [Black Ships and Samurai I](https://ocw.mit.edu/ans7870/21f/21f.027/black_ships_and_samurai/index.html)
+* [Black Ships and Samurai II](https://ocw.mit.edu/ans7870/21f/21f.027/black_ships_and_samurai_02/index.html)
 
 ### Links to other projects, websites, others
 
