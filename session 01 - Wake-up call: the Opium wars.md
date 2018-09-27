@@ -1,3 +1,5 @@
+![The East India Company steamship Nemesis (right background) destroying Chinese war junks during the Second Battle of Chuenpi, 7 January 1841](images/1841_0792_nemesis_jm_nmm.jpg)
+
 ### Keywords
 
 
