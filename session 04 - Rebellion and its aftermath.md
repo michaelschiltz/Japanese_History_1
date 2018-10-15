@@ -12,12 +12,16 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
+* **Masayoshi Matsukata. 1899. *Report on the Adoption of the Gold Standard in Japan*. Printed at the Government press. http://archive.org/details/reportonadoptio00matsgoog.**
+
 
 ### Audiovisual materials
 
 
 ### Links to other projects, websites, others
 
+* [Developing Financial Institutions Meiji](https://nanopdf.com/download/september-8-5add9cab45a4c_pdf)
+* “Apocalypse Now: An Alternate View of the Bakumatsu Years | M. William Steele – Digital Meijis.” n.d. Accessed September 28, 2018. https://pressbooks.bccampus.ca/meijiat150/chapter/apocalypse-now-an-alternate-view-of-the-bakumatsu-years-m-william-steele/.
 
 ### to follow (@twitter)
 
