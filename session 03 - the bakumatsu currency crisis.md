@@ -1,5 +1,6 @@
 ### Keywords
 
+[Japanese currency](https://en.wikipedia.org/wiki/Japanese_currency)
 
 ### Points of discussion
 
@@ -14,7 +15,6 @@
 * Metzler, Mark. 2006. *Lever of Empire: The International Gold Standard and the Crisis of Liberalism in Prewar Japan*. Twentieth-Century Japan 17. Berkeley: University of California Press. Pp. 14-28.
 * **Ohkura, Takehiko, and Hiroshi Shimbo. 1978. “The Tokugawa Monetary Policy in the Eighteenth and Nineteenth Centuries.” *Explorations in Economic History* 15 (1): 101–24. https://doi.org/10.1016/0014-4983(78)90040-2.**
 
-* [Japanese currency](https://en.wikipedia.org/wiki/Japanese_currency)
 
 ### Primary sources
 
