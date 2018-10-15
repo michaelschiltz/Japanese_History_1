@@ -3,6 +3,10 @@
 
 ### Points of discussion
 
+* why could the pre-modern monetary system continue for so long? List the conditions for this; who or what was to gain from this set-up?
+* why is it important to know that silver and gold were not mere commodities, but the country's currency as well?
+* do you see parallels with other past and/or contemporary happenings?
+
 
 ### Readings
 * Note: compulsory readings have been marked in **bold**
