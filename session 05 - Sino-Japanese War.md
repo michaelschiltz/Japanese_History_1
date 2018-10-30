@@ -16,12 +16,16 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
+* [Jacar 'topics': the Sino-Japanese War](https://www.jacar.go.jp/topicsfromjacar/01_warissues/index01_003.html)
 
 ### Audiovisual materials
 
 * 1990PatMorrison. n.d. Naval Battle From the First Sino-Japanese War. Accessed September 19, 2018. https://www.youtube.com/watch?v=og5svzyrvag.
 
+
 ### Links to other projects, websites, others
+
+* **[描かれた日清戦争](https://www.jacar.go.jp/jacarbl-fsjwar-j/index.html)**
 
 
 ### to follow (@twitter)
