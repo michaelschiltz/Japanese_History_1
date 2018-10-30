@@ -7,7 +7,7 @@ Source: Sino-Japanese War: Picture of Naval Officers Discussing Strategy to Be U
 
 ### Points of discussion
 
-* consider the role of international law in this modern, yet peripheral conflict. How did Japan exploit the notion pf international law?
+* consider the role of international law in this modern, yet peripheral conflict. How did Japan attempt to exploit the notion of international law?
 * The Japanese 'House Tax' case demonstrates Japan's secondary status in the international pecking order at the time: explain. How did the foreign powers use notion od international law to their advantage
 
 
