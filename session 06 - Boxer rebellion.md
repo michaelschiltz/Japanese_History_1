@@ -25,3 +25,4 @@ Note: compulsory readings have been marked in **bold**
 
 ### to follow (@twitter)
 
+![Troops of the eight nations alliance](images/Troops_of_the_Eight_nations_alliance_1900.jpg)
