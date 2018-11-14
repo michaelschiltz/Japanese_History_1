@@ -1,8 +1,11 @@
 ### Keywords
 
+* `imperialism`, `extraterritoriality`, `carving up of china`
 
 ### Points of discussion
 
+* the Boxer rebellion was a clear example of the mobilization of international public opinion. Discuss.
+* Was the true battleground of the Rebellion not in the first place 'international law'? What does this mean for our understanding of international law and values in the context of imperialism? Relate your thoughts to notions as political power and legitimacy.
 
 ### Readings
 Note: compulsory readings have been marked in **bold**
