@@ -5,6 +5,7 @@ Source: Wikipedia.
 
 ### Keywords
 
+* `imperialism`, `[security dilemma](https://en.wikipedia.org/wiki/Security_dilemma)`, `[Thucydides trap](https://foreignpolicy.com/2017/06/09/the-thucydides-trap/)`
 
 ### Points of discussion
 
@@ -17,6 +18,9 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
+* Alfred L.p. Dennis. 1923. *The Anglo-Japanese Alliance*. http://archive.org/details/in.ernet.dli.2015.13130.
+* *The Anglo-Japanese Alliance*. 1921. [Tientsin : s.n.] http://archive.org/details/anglojapaneseall00tienuoft.
+* Wood, Ge-Zay. [c1921]. *China, the United States, and the Anglo-Japanese Alliance*. New York H. Revell. http://archive.org/details/chinaunitedstate00wooduoft.
 
 ### Audiovisual materials
 
