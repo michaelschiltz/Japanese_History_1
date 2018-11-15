@@ -5,7 +5,7 @@ Source: Wikipedia.
 
 ### Keywords
 
-* `imperialism`, [`security dilemma`](https://en.wikipedia.org/wiki/Security_dilemma), [`Thucydides trap`](https://foreignpolicy.com/2017/06/09/the-thucydides-trap/)`
+* `imperialism`, [`security dilemma`](https://en.wikipedia.org/wiki/Security_dilemma), [`Thucydides trap`](https://foreignpolicy.com/2017/06/09/the-thucydides-trap/)
 
 ### Points of discussion
 
