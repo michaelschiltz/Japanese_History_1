@@ -20,6 +20,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Audiovisual materials
 
+* Guy Fawkes. n.d. *Rise and Fall of the Japanese Empire Part One*. Accessed November 15, 2018. https://www.youtube.com/watch?v=BJFe2nLcmjo&t=28s.
 
 ### Links to other projects, websites, others
 
