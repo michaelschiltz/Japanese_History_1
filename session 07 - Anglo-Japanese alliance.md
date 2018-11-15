@@ -28,6 +28,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Links to other projects, websites, others
 
+* [Modern Japan in Archives: the Anglo-Japanese Alliance](http://www.ndl.go.jp/modern/e/cha2/description25.html)
 
 ### to follow (@twitter)
 
