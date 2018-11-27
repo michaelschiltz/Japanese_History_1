@@ -33,7 +33,8 @@ Gordon, Andrew. 2013. *A Modern History of Japan: From Tokugawa Times to the Pre
 15. [The total defeat of blocism and the Pax Americana](https://github.com/michaelschiltz/Japanese_History_1/blob/master/session%2015%20-%20total%20defeat%20of%20blocism.md)
 
 #### Homework
-From session 2 on, small student groups will be assigned to introduce topics to be discussed. This may include both historical matter and/or their contemporary implications.
+
+From session 2 onwards, small student groups will be assigned to introduce topics to be discussed. This may include both historical matter and/or their contemporary implications.
 Students are expected to:
 1. participate in the course as a whole: doing the essential reading for each week’s topic, and coming prepared to question and intervene.
 2. provide written and oral comments;
@@ -41,7 +42,16 @@ Students are expected to:
 4. When presenting, students should go beyond the narrow content of the reading to be presented; develop an argument as a coherent whole, e.g. by focusing on theoretical issues (e.g. the relationship between (political) power and violence, methodological ones (for instance the nature of the relationship between ‘ideas’ and the material/technological/… contexts in which they are shaped)
 
 #### How to read?
+
 Undergraduate students often find it challenging to read scientific articles; and indeed, the format that characterizes scientific publications is quite different from what may have been familiar in highschool. [Here](https://en.wikipedia.org/wiki/SQ3R) is a digest of a comprehensive reading method called SQ3R; there also exists a [longer guide](https://www.ucc.vt.edu/academic_support/online_study_skills_workshops/SQ3R_improving_reading_comprehension.html). 
 
 #### Grading System
+
 Evaluation will be based on: reading notes, class discussions (other means of evaluation may be discussed with the students). There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations. They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
+Although all grading is characterized by an inherent opacity (if only for the simple reason that every presentation pertains to different material and a different session), here are some simple rules:
+
+1. students presenting on several occasions will receive a higher grade
+2. students making elaborate presentations (including audiovisual material, links to primary sources etc.) will be rewarded for the extra effort
+3. showing that you mastered the readings by partaking actively in the discussions is a plus.
+
+As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), the class strongly encourages and rewards participation; vice versa, it penalizes a passive or absent behavior.
