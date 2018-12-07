@@ -26,3 +26,5 @@ Note: compulsory readings have been marked in **bold**
 ### to follow (@twitter)
 
 ![Japanese Seaplane Carrier Wakamiya](images/Wakamiya.jpg)
+
+![militarism as self-fulfilling prophecy](images/It_Shoots_Further_Than_He_Dreams.jpg)
