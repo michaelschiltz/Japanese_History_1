@@ -1,3 +1,5 @@
+![A Chain of Friendship -illustration of the dynamics of alliance politics](images/Chain_of_Friendship_cartoon.gif)
+
 ### Keywords
 `21 Demands`, `Siege of Qingdao`, `Nishihara loans`, `China policy`
 
