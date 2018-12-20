@@ -8,7 +8,7 @@
 ### Points of discussion
 
 * Pan-Asianism must be studied in its close relationship with what preceded it, namely Western imperialism. Discuss.
-* In the late twentieth century, pan-Asianism may have been revived in the cloak of so-called 'Asian vaules'. Do you believe this comparison is warranted? If yes, discuss; if no, discuss.
+* In the late twentieth century, pan-Asianism may have been revived in the cloak of so-called 'Asian values'. Do you believe this comparison is warranted? If yes, discuss; if no, discuss.
 * To what degree do yu think pan-Asianism was mainstream rather than a fringe movement?
 
 ### Readings
