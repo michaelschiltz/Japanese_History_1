@@ -4,7 +4,7 @@ Source: source: 伪满洲国旧影, edited by the museum of Manchukuo Palace, pu
 
 ### Keywords
 
-drug trafficking, 
+`drug trafficking`, `anthropology`, `imperial learning`, `assimilation`
 
 ### Points of discussion
 
