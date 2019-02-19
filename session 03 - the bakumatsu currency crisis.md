@@ -13,7 +13,9 @@
 (Note: compulsory readings have been marked in **bold**)
 
 * Metzler, Mark. 2006. *Lever of Empire: The International Gold Standard and the Crisis of Liberalism in Prewar Japan*. Twentieth-Century Japan 17. Berkeley: University of California Press. Pp. 14-28.
+* McMaster, John. 1960. “The Japanese Gold Rush of 1859.” *The Journal of Asian Studies* 19 (3): 273–87. https://doi.org/10.2307/2943487.
 * **Ohkura, Takehiko, and Hiroshi Shimbo. 1978. “The Tokugawa Monetary Policy in the Eighteenth and Nineteenth Centuries.” *Explorations in Economic History* 15 (1): 101–24. https://doi.org/10.1016/0014-4983(78)90040-2.**
+* **Sawada Sho. 1936. “Financial Difficulties of The Edo Bakufu.” *Harvard Journal of Asiatic Studies* 1 (3/4): 308–26. https://doi.org/10.2307/2717787.**
 
 
 ### Primary sources
