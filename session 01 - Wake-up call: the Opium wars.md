@@ -1,10 +1,11 @@
 ![The East India Company steamship Nemesis (right background) destroying Chinese war junks during the Second Battle of Chuenpi, 7 January 1841](images/1841_0792_nemesis_jm_nmm.jpg)
 
 ### Keywords
-
+`opium`, `regimes of capitalism`, 
 
 ### Points of discussion
 
+* through its function as an addictive substance, opium was bound to guarantee a demand that the East India Company needed to reduce the British trade deficits with China - discuss. Again, through its addictive properties, opium was the thread knitting together money, bodies (violence)  and theories of race and superiority -discuss.
 
 ### Readings
 Note: compulsory readings have been marked in **bold**
