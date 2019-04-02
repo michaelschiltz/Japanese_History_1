@@ -61,5 +61,8 @@ As this class is an example of [problem-based learning](https://en.wikipedia.org
 #### What are the necessary elements of a presentation?
 
 * historical outline of the topic to be discussed: see the aforementioned *A Modern History of Japan: From Tokugawa Times to the Present*; a host of online sources (including Wikipedia) may be used for encyclopedic material.
+* a **clear outline of what you intend to discuss**
+* if applicable, references to recent or contemporary events
+* indications of what you found difficult to understand
 * a *timeline* of events
 * references to primary materials in online databases: search the [Japan Center for Asian Records](https://www.jacar.go.jp/), the [National Diet Library's Digital Collections](http://dl.ndl.go.jp/), the [Kobe University Archive of Newspaper clippings](http://www.lib.kobe-u.ac.jp/sinbun/index.html), and so on...
