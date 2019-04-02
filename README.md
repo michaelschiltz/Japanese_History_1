@@ -8,7 +8,7 @@ Japan’s experience with modernity was ridden with conflicts, outright wars, an
 
 #### Course Goals
 
-The important hallmark of this course is its explicitly anti-humanist or sociological stance. Rather than focusing on key historical figures and their decisions, we will identify social forces that extend far beyond the limited scope of human agency. Instead, we focus on the ways in which technologies (of warfare, telecommunications, transport, finance etc.) possess a self-propelling dynamic: they reinforce their importance, so to speak, and become both tools and objectives of modern development. Taken together, they demonstrate the inherently international outlook of modern society, while paradoxically employing a vocabulary of segregation: the semantics of the ‘nation state’ and ‘national culture’. How the latter relates to and interacts with internationalization, and how this interaction produces regimes of rewards and punishment are core themes in all sessions. In this course, a truly international perspective on Japanese history (‘Japan in Asia’ / ‘Japan and the West’) is paramount. As a reference guide to existing debates in a host of interdisciplinary fields (medium theory, systems theory, and so on), each session provides links to broader secondary sources.
+The important hallmark of this course is its *explicitly anti-humanist* or sociological stance. Rather than focusing on key historical figures and their decisions, we will identify social forces that extend far beyond the limited scope of human agency. Instead, we focus on the ways in which *technologies* (of warfare, telecommunications, transport, finance etc.) possess a self-propelling dynamic: they reinforce their importance, so to speak, and become both tools and objectives of modern development. Taken together, they demonstrate the inherently international outlook of modern society, while paradoxically employing a vocabulary of segregation: the semantics of the ‘nation state’ and ‘national culture’. How the latter relates to and interacts with internationalization, and how this interaction produces regimes of rewards and punishment are core themes in all sessions. In this course, a truly international perspective on Japanese history (‘Japan in Asia’ / ‘Japan and the West’) is paramount. As a reference guide to existing debates in a host of interdisciplinary fields (medium theory, systems theory, and so on), each session provides links to broader secondary sources.
 
 #### Introductory reading:
 
@@ -47,13 +47,19 @@ Undergraduate students often find it challenging to read scientific articles; an
 
 #### Grading System
 
-As this course (just as my other courses) [does not believe in the usefulness of final grades](https://www.youtube.com/watch?v=KShfEMy8UZQ), evaluation will be based on: reading notes, class discussions (other means of evaluation may be discussed with the students), and so in. There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations. They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
+As this course (just as my other courses) [does not believe in the usefulness of final grades](https://www.youtube.com/watch?v=KShfEMy8UZQ), evaluation will be based on: **reading notes** (to be turned in *weekly*), **class discussions** (other means of evaluation may be discussed with the students), and so in. There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations. They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
 Although all grading is characterized by an inherent opacity (if only for the simple reason that every presentation relates to different material and takes place in a different session), here are some simple rules:
 
 1. students presenting on several occasions will receive a higher grade
 2. students making elaborate presentations (including audiovisual material, links to primary sources etc.) will be rewarded for the extra effort
-3. showing that you mastered the readings by partaking actively in the discussions is a plus.
+3. showing that you mastered the readings by actively partaking in the discussions is central.
 
 As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), it **strongly encourages and rewards participation**; vice versa, **it penalizes a passive or absent behavior**. Concretely, 80 percent of your grade is based on class discussion; the remaining 20 percent is reserved for presentations.
 
 **Some rules: whereas attendance is considered crucial, merely being present in class is insufficient to pass. Active participation is prerequisite. Checking social media or constantly looking at your phone during class is discouraging and even disturbing for your peers, so should be avoided. This class demands a considerable degree of commitment; do not take this class if you are not motivated.**
+
+#### What are the necessary elements of a presentation?
+
+* historical outline of the topic to be discussed: see the aforementioned *A Modern History of Japan: From Tokugawa Times to the Present*; a host of online sources (including Wikipedia) may be used for encyclopedic material.
+* a *timeline* of events
+* references to primary materials in online databases: search the [Japan Center for Asian Records](https://www.jacar.go.jp/), the [National Diet Library's Digital Collections](http://dl.ndl.go.jp/), the [Kobe University Archive of Newspaper clippings](http://www.lib.kobe-u.ac.jp/sinbun/index.html), and so on...
