@@ -4,6 +4,7 @@ Source: Sino-Japanese War: Picture of Naval Officers Discussing Strategy to Be U
 
 ### Keywords
 
+`war and international law`, `soft power`, `institutional racism`
 
 ### Points of discussion
 
