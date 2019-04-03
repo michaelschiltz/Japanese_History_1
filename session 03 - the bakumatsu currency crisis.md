@@ -1,6 +1,6 @@
 ### Keywords
 
-[Japanese currency](https://en.wikipedia.org/wiki/Japanese_currency)
+`[Japanese currency](https://en.wikipedia.org/wiki/Japanese_currency)`, `financial imperialism`, `self-determination and its limits`
 
 ### Points of discussion
 
