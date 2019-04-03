@@ -50,8 +50,8 @@ Undergraduate students often find it challenging to read scientific articles; an
 As this course (just as my other courses) [does not believe in the usefulness of final grades](https://www.youtube.com/watch?v=KShfEMy8UZQ), evaluation will be based on: **reading notes** (to be turned in *weekly*), **class discussions** (other means of evaluation may be discussed with the students), and so on. There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations (these are a *must*: presentations will aid you in keeping track of the idea you intend to develop, and are a great tool for your colleagues). They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
 Although all grading is characterized by an inherent opacity (if only for the simple reason that every presentation relates to different material and takes place in a different session), here are some simple rules:
 
-1. students presenting on several occasions will receive a higher grade
-2. students making elaborate presentations (including audiovisual material, links to primary sources etc.) will be rewarded for the extra effort
+1. all students are required to be in charge of at least 1 presentation; presentations can be done on an individual basis, or in little groups.
+2. students making elaborate presentations (including audiovisual material, links to relevant primary sources, etc.) will be rewarded for the extra effort. It all boils down to respect for your audience; hastily constructed and shallow arguments are a waste of time. 
 3. showing that you mastered the readings by actively partaking in the discussions is central.
 
 As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), it **strongly encourages and rewards participation**; vice versa, **it penalizes a passive or absent behavior**. Concretely, 80 percent of your grade is based on class discussion; the remaining 20 percent is reserved for presentations.
@@ -66,3 +66,7 @@ As this class is an example of [problem-based learning](https://en.wikipedia.org
 * indications of what you found difficult to understand
 * a *timeline* of events
 * references to primary materials in online databases: search the [Japan Center for Asian Records](https://www.jacar.go.jp/), the [National Diet Library's Digital Collections](http://dl.ndl.go.jp/), the [Kobe University Archive of Newspaper clippings](http://www.lib.kobe-u.ac.jp/sinbun/index.html), and so on...
+* when using illustrations and or citations, provide the necessary references.
+* it is better to be exhaustive rather than being too concise
+
+**!!The schedule of the presentations will be decided in the one of the first sessions; students are required to meet with the professor one week before doing the presentation, and will receive feedback.**
