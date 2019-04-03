@@ -1,8 +1,10 @@
 ### Keywords
 
+`sovereignty`, `colonialism`, `international law as soft power`
 
 ### Points of discussion
 
+* Japan's confrontation with foreign vessels and missions was not just an instant of a militarily superior nation forcing itself upon a militarily inferior one. It was also a clash of soft power technologies ('modern' Western international law versus the tributary order of pre-modern Asia). Discuss. Rethink the importance of finance and Western 'knowledge' in reinforcing racial stereotypes and financial backwardness.
 
 ### Readings
 Note: compulsory readings have been marked in **bold**
