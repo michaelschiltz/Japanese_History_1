@@ -69,4 +69,4 @@ As this class is an example of [problem-based learning](https://en.wikipedia.org
 * when using illustrations and or citations, provide the necessary references.
 * it is better to be exhaustive rather than being too concise
 
-**!!The schedule of the presentations will be decided in the one of the first sessions; students are required to meet with the professor one week before doing the presentation, and will receive feedback.**
+**!!The schedule of the presentations will be decided in one of the first sessions; students are required to meet with the professor one week before doing the presentation, and will receive feedback.**
