@@ -34,7 +34,7 @@ Gordon, Andrew. 2013. *A Modern History of Japan: From Tokugawa Times to the Pre
 
 #### Homework
 
-From session 2 onwards, small student groups will be assigned to introduce topics to be discussed. This may include both historical matter and/or their contemporary implications.
+From session 2-3 onwards, small student groups will be assigned to introduce topics to be discussed. This may include both historical matter and/or their contemporary implications.
 Students are expected to:
 1. participate in the course as a whole: doing the essential reading for each week’s topic, and coming prepared to question and intervene.
 2. provide written and oral comments;
@@ -61,8 +61,9 @@ As this class is an example of [problem-based learning](https://en.wikipedia.org
 #### What are the necessary elements of a presentation?
 
 * historical outline of the topic to be discussed: see the aforementioned *A Modern History of Japan: From Tokugawa Times to the Present*; a host of online sources (including Wikipedia) may be used for encyclopedic material.
+* an indication of the sources used to assemble your presentation
 * a **clear outline of what you intend to discuss**
-* if applicable, references to recent or contemporary events
+* if applicable, references to recent or contemporary events (e.g. the role of financial imperialism in the 21st century)
 * indications of what you found difficult to understand
 * a *timeline* of events
 * references to primary materials in online databases: search the [Japan Center for Asian Records](https://www.jacar.go.jp/), the [National Diet Library's Digital Collections](http://dl.ndl.go.jp/), the [Kobe University Archive of Newspaper clippings](http://www.lib.kobe-u.ac.jp/sinbun/index.html), and so on...
