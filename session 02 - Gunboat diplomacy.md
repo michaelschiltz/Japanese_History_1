@@ -14,7 +14,7 @@ Note: compulsory readings have been marked in **bold**
 * **Kayaoğlu, Turan. 2014. *Legal Imperialism: Sovereignty and Extraterritoriality in Japan, the Ottoman Empire, and China*. Reprint edition. Cambridge: Cambridge University Press.** chapter 1 & 2.
 * Kitahara, Michio. 1986. “Commodore Perry and the Japanese: A Study in the Dramaturgy of Power.” *Symbolic Interaction* 9 (1): 53–65. https://doi.org/10.1525/si.1986.9.1.53.
 * Kohno, Masaru. 2001. “On the Meiji Restoration: Japan’s Search for Sovereignty?” *International Relations of the Asia-Pacific* 1 (2): 265–83. https://www.jstor.org/stable/26156531.
-* **Murase, Shinya. 1976. “The Most-Favored-Nation Treatment in Japan’s Treaty Practice During the Period 1854-1905.” The American Journal of International Law 70 (2): 273–97. https://doi.org/10.2307/2200073.**
+* **Murase, Shinya. 1976. “The Most-Favored-Nation Treatment in Japan’s Treaty Practice During the Period 1854-1905.” *The American Journal of International Law* 70 (2): 273–97. https://doi.org/10.2307/2200073.**
 
 
 
