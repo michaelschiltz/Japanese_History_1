@@ -54,6 +54,7 @@ Although all grading is characterized by an inherent opacity (if only for the si
 1. all students are required to be in charge of at least 1 presentation; presentations can be done on an individual basis, or in little groups. When presenting in a group, all students will receive the same grade, so do not fail your colleagues.
 2. students making elaborate presentations (including audiovisual material, links to relevant primary sources, etc.) will be rewarded for the extra effort. It all boils down to **respect for your audience**; hastily constructed and shallow arguments are a waste of everybody's time. 
 3. showing that you mastered the readings by actively partaking in the discussions is central.
+4. if you want to have an idea of where I have gotten the inspiration for this teaching paradigm, check the [following ideas by Jesse Stommel](https://www.jessestommel.com/ungrading-a-bibliography/).
 
 As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), it **strongly encourages and rewards participation**; vice versa, **it penalizes a passive or absent behavior**. Concretely, 80 percent of your grade is based on class discussion; the remaining 20 percent is reserved for presentations.
 
@@ -71,4 +72,4 @@ As this class is an example of [problem-based learning](https://en.wikipedia.org
 * when using illustrations and or citations, provide the necessary references.
 * it is better to be exhaustive rather than being too concise
 
-**!!The schedule of the presentations will be decided in one of the first sessions; students are required to meet with the professor one week before doing the presentation, and will receive feedback.**
+**!!The schedule of the presentations will be decided in one of the first sessions; students are free to meet with the professor one week before doing the presentation, and will receive feedback.**
