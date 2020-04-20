@@ -58,7 +58,15 @@ Although all grading is characterized by an inherent opacity (if only for the si
 
 As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), it **strongly encourages and rewards participation**; vice versa, **it penalizes a passive or absent behavior**. Concretely, 80 percent of your grade is based on class discussion; the remaining 20 percent is reserved for presentations.
 
-**Some rules: whereas attendance is considered crucial, merely being present in class is insufficient to get a high grade (a passive attitude may even lead to fail the class). Active participation is prerequisite. Checking social media or constantly looking at your phone during class is discouraging and even disturbing for your peers, so should be avoided. This class demands a considerable degree of commitment; do not take this class if you are not motivated.**
+
+#### How to write reading notes?
+
+In order to enhance the student's understanding of the structure of a scientific argument, reading notes are to be prepared so to demonstrate the *logic* of an article/chapter in a book. Here are some tools to present this logic as a discursive 'tree', a hierarchy of argumentative building blocks:
+  * [Cacoo](https://cacoo.com)
+  * [coggle](https://coggle.it/)
+  * [draw.io](https://www.draw.io/)
+  * [gliffy](https://www.gliffy.com/)
+  * [lucidchart](https://www.lucidchart.com/)
 
 #### What are the necessary elements of a presentation?
 
@@ -73,3 +81,5 @@ As this class is an example of [problem-based learning](https://en.wikipedia.org
 * it is better to be exhaustive rather than being too concise
 
 **!!The schedule of the presentations will be decided in one of the first sessions; students are free to meet with the professor one week before doing the presentation, and will receive feedback.**
+
+**Some rules: whereas attendance is considered crucial, merely being present in class is insufficient to get a high grade (a passive attitude may even lead to fail the class). Active participation is prerequisite. Checking social media or constantly looking at your phone during class is discouraging and even disturbing for your peers, so should be avoided. This class demands a considerable degree of commitment; do not take this class if you are not motivated.**
