@@ -28,6 +28,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Audiovisual materials
 
+* [In Search Of History - China’s Boxer Rebellion](https://www.youtube.com/watch?v=U_QXW1VMPQ0) (History Channel Documentary). n.d. Accessed April 25, 2020. .
 * **Peter Perdue and Ellen Sebring, [Boxer Rebellion Overview](https://techtv.mit.edu/videos/6805d177e4394255a42ab2508f132861/)**
 * Tilman, Remme. 2014. Boxer Rebellion. https://vimeo.com/94828509.
 
