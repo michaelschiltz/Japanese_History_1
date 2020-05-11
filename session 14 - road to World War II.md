@@ -15,6 +15,8 @@ Note: compulsory readings have been marked in **bold**
 
 ### Audiovisual materials
 
+* **“Japan’s War in Colour | 2004 Documentary with Never Seen before Films - YouTube.” n.d. Accessed May 11, 2020. https://www.youtube.com/watch?v=WJLE2pnN9WY.**
+
 
 ### Links to other projects, websites, others
 
