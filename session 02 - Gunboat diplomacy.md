@@ -21,7 +21,7 @@ Note: compulsory readings have been marked in **bold**
 ### Primary sources
 
 * **[Japanese-American Diplomacy - Treaty of Kanagawa; March, 31, 1854](http://avalon.law.yale.edu/19th_century/japan002.asp) (full text)**
-* Perry, Matthew Calbraith. 1857. [*Narrative of the Expedition of an American Squadron to the China Seas and Japan*](http://ebook.lib.hku.hk/CTWE/B36599566/). New York, London: D. Appleton & company. (e-book provided by Hong Kong University)
+* Perry, Matthew Calbraith. 1857. [*Narrative of the Expedition of an American Squadron to the China Seas and Japan*](https://archive.org/details/narrativeofexped04perr/page/n7/mode/2up). New York, London: D. Appleton & company.
 
 ### Audiovisual materials
 
