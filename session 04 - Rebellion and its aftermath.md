@@ -4,7 +4,7 @@
 
 ### Points of discussion
 
-* the Matsukata deflation, although being a domestic policy, had obvious consequences for the international (i.e. external) standing of the Jaanese yen: discuss. Compare the Matsukata deflationary policies to more recent attempts at stabilization of a currency. What are the issues, the trade-offs made? Formulate your own ideas about desirable policies.
+* the Matsukata deflation, although being a domestic policy, had obvious consequences for the international (i.e. external) standing of the Japanese yen: discuss. Compare the Matsukata deflationary policies to more recent attempts at stabilization of a currency. What are the issues, the trade-offs made? Formulate your own ideas about desirable policies.
 
 ### Readings
 Note: compulsory readings have been marked in **bold**
