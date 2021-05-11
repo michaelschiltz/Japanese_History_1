@@ -19,7 +19,7 @@ Note: compulsory readings have been marked in **bold**
 * 松村敏. 2013. 「松方デフレ期東京の中小両替商 : 中村両替店の資料分析」. 『商経論叢 = Review of Economics and Commerce 48』 (3): 53–71. https://ci.nii.ac.jp/naid/120005328861.
 * 田村安興. 2003. 「松方デフレ期における財政再建策の検討」. 『高知論叢』, no. 78 (November): 1–34. https://ci.nii.ac.jp/naid/120005660883.
 * 寺西重郎. 1981. 「松方デフレと松方財政」. 『経済研究』 32 (3): p223-231. https://ci.nii.ac.jp/naid/120005253017.
-———. 1982. 「松方デフレのマクロ経済学的分析 (経済史への新しい接近<特集>)」. 『季刊現代経済』, no. 47 (April): p78-92. https://ci.nii.ac.jp/naid/40000595746.
+* ———. 1982. 「松方デフレのマクロ経済学的分析 (経済史への新しい接近<特集>)」. 『季刊現代経済』, no. 47 (April): p78-92. https://ci.nii.ac.jp/naid/40000595746.
 
 
 ### Primary sources
