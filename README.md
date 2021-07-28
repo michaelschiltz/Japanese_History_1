@@ -2,6 +2,9 @@
 
 ### Between War and Peace
 
+“History is opaque. You see what comes out, not the script that produces events, the generator of history.”
+― Nassim Nicholas Taleb, *The Black Swan: The Impact of the Highly Improbable*.
+
 #### Course objectives:
 
 Japan’s experience with modernity was ridden with conflicts, outright wars, and the continuous threat to the nation’s survival in a voracious, Hobbesian world. This introductory course outlines the international dimensions of that experience, and demonstrates the ways in which this experience inexorably shaped the contours of the policy debates with regards to the country’s international positioning. Concretely, we study the dynamics behind and meaning of the ambition to ‘leave Asia’ (脱亜論 *datsu-a ron*), become the ‘Great-Britain of the East’; and yet later, to return to Asia as the region’s savior (the ‘yellow burden’).
