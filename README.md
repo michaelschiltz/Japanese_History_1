@@ -2,7 +2,7 @@
 
 ### Between War and Peace
 
-“History is opaque. You see what comes out, not the script that produces events, the generator of history.”
+> “History is opaque. You see what comes out, not the script that produces events, the generator of history.”
 ― Nassim Nicholas Taleb, *The Black Swan: The Impact of the Highly Improbable*.
 
 #### Course objectives:
