@@ -21,6 +21,7 @@
 
 ### Primary sources
 
+* Alcock, Rutherford. The Capital Of The Tycoon  Vol. 2, 1863. http://archive.org/details/in.ernet.dli.2015.47502.
 * Griffis, William Elliot. 1895. *Townsend Harris, First American Envoy in Japan*. Boston, New York, Houghton, Mifflin and Company. http://archive.org/details/townsendharrisf00grifgoog.
 * **Harris, Townsend. 1959. *Complete Journal of Townsend Harris*. Rutland, Vt.,: C. E. Tuttle co. http://archive.org/details/completejournalo00harr.** (seek references with respect to gold and silver)
 * Matsukata, Masayoshi. 1897. *Reasons for the Adoption of a Single Gold Standard by the Empire of Japan* [Microform]. [S.l. : s.n.]. http://archive.org/details/reasonsforadopti00mats.
