@@ -22,7 +22,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Audiovisual materials
 
-* [The Opium War in Japanese Eyes: Image Gallery; Illustrations from Kaigai Shinwa and Kaigai Shinwa Shūi](https://ocw.mit.edu/ans7870/21f/21f.027/opium_wars_japan/oje_gallery.html); 
+* [The Opium War in Japanese Eyes: Image Gallery; Illustrations from Kaigai Shinwa and Kaigai Shinwa Shūi](https://visualizingcultures.mit.edu/opium_wars_japan/oje_gallery.html)); 
 
 ### Links to other projects, websites, others
 
