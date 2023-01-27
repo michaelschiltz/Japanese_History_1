@@ -15,6 +15,9 @@ Note: compulsory readings have been marked in **bold**
 * Melancon, Glenn. 1999. “Honour in Opium? The British Declaration of War on China, 1839–1840.” *The International History Review* 21 (4): 855–74. https://doi.org/10.1080/07075332.1999.9640880.
 * Taylor, Jeremy E. 2002. “The Bund: Littoral Space of Empire in the Treaty Ports of East Asia.” *Social History* 27 (2): 125–42. https://doi.org/10.1080/03071020210128364.
 * **Wakabayashi, Bob Tadashi. 1992. “Opium, Expulsion, Sovereignty. China’s Lessons for Bakumatsu Japan.” *Monumenta Nipponica* 47 (1): 1–25. https://doi.org/10.2307/2385356**.
+* Wataru, Masuda. 2000. “The Influence of the Opium War on Japan.” In *Japan and China: Mutual Representations in the Modern Era*, edited by Masuda Wataru, 43–47. New York: Palgrave Macmillan US. https://doi.org/10.1007/978-1-137-08365-4_9.
+
+  
 
 ### Primary sources
 
